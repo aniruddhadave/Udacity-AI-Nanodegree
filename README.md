@@ -29,7 +29,7 @@ Built an algorithm to identify canine breed given an image of a dog. If given im
 ---
 
 ## [Time Series Prediction and Text Generation using RNNs](./aind2-rnn)
-Built RNNs that can generate sequences based on input data - with a focus on two applications: used real market data in order to predict future Apple stock prices using an RNN model. The second one will be trained on Sir Arthur Conan Doyle's classic novel Sherlock Holmes and generates wacky sentences based on it that may - or may not - become the next great Sherlock Holmes novel.
+Built RNNs that can generate sequences based on input data - with a focus on two applications: used real market data in order to predict future Apple stock prices using an RNN model. The second one was trained on Sir Arthur Conan Doyle's classic novel Sherlock Holmes and generates wacky sentences based on it.
 
 ---
 
